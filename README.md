@@ -7,9 +7,9 @@ Please create a copy of this repository using the 'Use this template' button abo
 In your copy of this repository, perform the following tasks.
 
 Tasks:
-- [ ] create a story in the storybook for the App component
 - [ ] add a button to the default page in App.js, labeled "click me" 
 - [ ] add a handler that changes the text in the button to "thanks" when clicked once, and back to "click me" if clicked again
+- [ ] create a story in the storybook for the App component
 - [ ] import the storybook story you wrote to create a test of the button in App.test.js
   - [ ] write a test to check that the button initially displays "click me" 
   - [ ] write a test to check that clicking the button changes its text to "thanks"
