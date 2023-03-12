@@ -1,8 +1,8 @@
 # React testing problem
 
-Our lab uses an experimental framework built with React. To make sure that we can reproduce and communicate what happened in our experiments, we need to test and document our experiment code. This repository provides a template for a simple test that requires you to build a new component and use documentation and testing tools to make sure it is working.
+Our lab uses experimental frameworks built with React to create code standards and ensure reproducibility. To make sure that we can reproduce and communicate what happened in our experiments, we need to test and document our experiment code. This repository provides a template for a simple test that requires you to build a new component and use documentation and testing tools to make sure it is working.
 
-Please create a copy of this repository using the 'Use this template' button above. When promped, name your copy something like "react-test-problem-yourname".
+Please create a copy of this repository using the 'Use this template' button above. When prompted, name your copy something like "react-test-problem-yourname". You can use the codespace feature in GitHub or develop locally.
   
 In your copy of this repository, perform the following tasks.
 
